@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @fidhafathima-m<br> 🔭 I’m working on Django Projects<br>🌱 I’m currently learning Web Development<br>💬 Ask me about anything Web-based
+👋 Hi, I’m Fidha Fathima M<br> 🔭 I’m working on Django Projects<br>🌱 I’m currently learning Web Development<br>💬 Ask me about anything Web-based
 
 
 ## 🌐 Socials:
