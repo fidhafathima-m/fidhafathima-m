@@ -11,12 +11,12 @@ I am always eager to connect with like-minded individuals and explore new opport
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fidha-fathima-m-963782205/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://fidhasspace.quora.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22129369/fidha-fathima-m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fidha.m/) 
 
 Thank you for visiting my profile. Let’s build something amazing together! 🚀
-# GitHub Stats:
+## GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=fidhafathima-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>--->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=fidhafathima-m&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fidhafathima-m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<!------->
 <!--[![](https://visitcount.itsvg.in/api?id=fidhafathima-m&icon=5&color=0)](https://visitcount.itsvg.in)-->
 
 <!---
