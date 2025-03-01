@@ -1,12 +1,12 @@
 Hello there! 👋<br />
 
-A passionate web developer with a strong affection for Python programming. I've been actively working on building real-world projects using Django and am continuously learning more about web development to refine my skills.<br /><br />
+I'm a passionate web developer with a keen interest in JavaScript and the MERN stack (MongoDB, Express.js, React, Node.js). I’ve been building real-world projects using these technologies and continue to expand my knowledge and skills.<br /><br />
 
-I hold a Bachelor's degree in Computer Applications, where I specialized in C, Java, and Python. This academic background has provided me with a strong foundation in programming principles and problem-solving techniques. In addition to my formal education, I have completed an online course on Artificial Intelligence with Python. Through this course, I've gained valuable insights into data analysis and visualization using libraries such as NumPy, Pandas, and Matplotlib.<br /><br />
+I hold a Bachelor's degree in Computer Applications, where I learned programming languages like C, Java, and Python. This background has given me a strong foundation in programming principles and problem-solving. More recently, I’ve focused on web development, diving into JavaScript and the MERN stack to build dynamic and scalable web applications.<br /><br />
 
 On my GitHub profile, you'll find a variety of projects that showcase my journey and growth as a developer. Each repository reflects my dedication to building impactful solutions and my enthusiasm for learning new technologies.<br /><br />
 
-I am always eager to connect with like-minded individuals and explore new opportunities. If you’re looking for someone with a passion for web development and a strong background in Python, or if you simply want to discuss technology and collaborate on exciting projects, feel free to reach out. I’m available via fidhumusthafa3549@gmail.com or on 
+I'm always eager to connect with others who are passionate about web development, especially in the JavaScript ecosystem. If you’re looking for someone with a strong background in web development, or if you want to collaborate on exciting projects, feel free to reach out. I’m available via fidhumusthafa3549@gmail.com or on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fidha-fathima-m-963782205/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://fidhasspace.quora.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22129369/fidha-fathima-m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fidha.m/) 
 
